@@ -1,0 +1,65 @@
+.wrapper {
+  width: 500px;
+  height: 600px;
+  margin: 0px auto 0px auto;
+}
+.heading {
+  color: gold;
+  text-align: center;
+  border-bottom: 3px solid rgb(224, 97, 12);
+  padding-bottom: 10px;
+}
+
+.forms {
+  text-align: center;
+}
+
+.inputLogin {
+  width: 70%;
+  height: 30px;
+  margin-bottom: 1rem;
+  background-color: rgb(236, 115, 16);
+}
+
+.inputPassword {
+  width: 70%;
+  height: 30px;
+  margin-bottom: 1rem;
+  background-color: rgb(236, 115, 16);
+}
+.checkboxWrapper {
+  width: 40%;
+  margin: 0px auto 20px auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: gold;
+}
+.checkbox {
+  width: 20px;
+  height: 20px;
+}
+.buttonWrapper {
+  border-top: 3px solid rgb(224, 97, 12);
+}
+
+.button {
+  width: 200px;
+  height: 50px;
+  margin-top: 28px;
+
+  background-color: gold;
+  border: none;
+  border-radius: 5%;
+}
+
+.formSummeryError {
+  border: 3px #e0610c solid;
+  color: #e0610c;
+  padding: 5px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}

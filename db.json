@@ -1,0 +1,250 @@
+{
+  "profilePosts": {
+    "postss": [
+      {
+        "id": 3,
+        "name": "Frank",
+        "surname": "Hill",
+        "text": "I'm stuped"
+      },
+      {
+        "id": 2,
+        "name": "Frank",
+        "surname": "Hill",
+        "text": "I'd stuped"
+      },
+      {
+        "id": 1,
+        "name": "Frank",
+        "surname": "Hill",
+        "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, possimus iure quod laudantium doloribus, vero numquam magni quaerat quo dolorem consectetur atque corporis dignissimos amet, molestias ducimus porro velit voluptas!\n            Voluptas beatae aperiam nisi. Et impedit accusantium deserunt delectus molestias illo? Sapiente quas, distinctio sunt odit qui obcaecati delectus velit voluptate ut, facere explicabo ab deserunt iusto harum beatae eos.\n            Quisquam, dolores eius iste adipisci, magni aut in eligendi, enim pariatur nesciunt dolor. Odit amet nostrum voluptate fugiat est eveniet voluptas enim velit? Doloribus natus consequuntur fugit voluptatibus, consectetur porro.\n            Ullam voluptatum totam quibusdam iure eligendi, consequatur amet? Porro assumenda cum aspernatur molestias aliquid aperiam deleniti, sunt fuga harum vitae corporis! Minus placeat atque sunt, ullam recusandae ad sint vero.\n            Dolorum repudiandae nisi placeat beatae hic iste suscipit eligendi ullam iure doloribus, minus libero impedit necessitatibus quae! Placeat fuga libero distinctio quo non eos, provident quaerat, eum, recusandae quis maxime!\n            Quaerat rerum quasi, vitae, reprehenderit ab voluptate, repellendus est adipisci aliquam dolore consequuntur magni minima? Fugiat vel est autem? Adipisci minus vitae magnam tempora rem repudiandae consequatur repellendus quae amet.\n            Suscipit officia quam sed veniam delectus illum tempore tempora architecto atque voluptatibus quae quisquam, minima consectetur cum. Quaerat illum dignissimos veritatis possimus corporis reprehenderit porro, ipsum omnis! Beatae, adipisci aliquam.\n            Sunt et quibusdam animi excepturi nulla deleniti perspiciatis, delectus assumenda est quae quis? Ut ipsa quae quisquam dolor excepturi odit dignissimos, praesentium accusamus tenetur fugit, ipsum, laboriosam voluptate ea repellendus?\n            Accusantium ipsum esse magni maxime, ea repudiandae beatae, exercitationem consequuntur possimus necessitatibus laboriosam. Necessitatibus maxime vel repellat asperiores placeat possimus officia deleniti autem neque suscipit quidem voluptatum aliquam, est doloremque.\n            Labore commodi a atque pariatur aperiam qui? Optio non iste sapiente similique, rem, dolorem aut consequuntur vero sed voluptatem est? Ullam iusto debitis, ducimus aspernatur commodi itaque nam quaerat quas."
+      }
+    ],
+    "newPostText": ""
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Harry",
+      "surname": "Finger",
+      "age": 42,
+      "education": "The Seller",
+      "position": "The Softer",
+      "status": "Single",
+      "photoURL": "https://4tololo.ru/sites/default/files/images/20150107165431.jpg?itok=qQ3pFxnO",
+      "header": "https://blog.prostodizain.ru/wp-content/uploads/2019/03/shapka-dlya-saita.jpg",
+      "followed": true,
+      "discription": "I work in a factory! I don't like my job!",
+      "country": "France",
+      "city": "Limoges"
+    },
+    {
+      "id": 2,
+      "name": "Sally",
+      "surname": "Sight",
+      "age": 22,
+      "education": "The Boat Captain",
+      "position": "The C++ softer",
+      "status": "Single",
+      "photoURL": "https://www.meme-arsenal.com/memes/588e6dd2fc07831400c09b69249d6ade.jpg",
+      "header": "https://lh3.googleusercontent.com/proxy/XjrsiQ0Irqs7z6ehEw_6QEhLG8P4U3CH3nNQEZk43mnZNV4wAC95GS8V77bgtJNL7WtqYN8uN8VhEGTzaJ_ffFu8R2nHGNY2DutPSQ",
+      "followed": false,
+      "discription": "I'm search the love in here! ",
+      "country": "Germany",
+      "city": "Birlin"
+    },
+    {
+      "id": 3,
+      "name": "Bob",
+      "surname": "Knee",
+      "age": 19,
+      "education": "The Creater Armchairs",
+      "position": "The JS softer",
+      "status": "Single",
+      "photoURL": "https://skype-messengers.ru/wp-content/uploads/2019/03/user.png",
+      "header": "https://i.pinimg.com/originals/74/e2/1b/74e21bec1bf0b8b2272cf1ee3e11677c.png",
+      "followed": true,
+      "discription": "I dream to become an engineer!",
+      "country": "USA",
+      "city": "Los-Angelis"
+    },
+    {
+      "id": 4,
+      "name": "Frank",
+      "surname": "Footer",
+      "age": 33,
+      "education": "The Fisherman",
+      "position": "The C++ softer",
+      "status": "Single",
+      "photoURL": "https://www.blast.hk/attachments/68493/",
+      "header": "http://dgdesign.ru/uploads/posts/2017-03/1489168118_shapka-sayta-voda-753611.jpg",
+      "followed": false,
+      "discription": "Your grandmother!",
+      "country": "Russian",
+      "city": "Moscow"
+    },
+    {
+      "id": 5,
+      "name": "Machel",
+      "surname": "Knife",
+      "age": 25,
+      "education": "The Arms USA",
+      "position": "The Clearner",
+      "status": "Single",
+      "photoURL": "https://games.mail.ru/pre_xl_resize/hotbox/content_files/gallery/2020/12/11/74cbc80bf27b42fc9db919d9cb008aa6.jpg",
+      "header": "https://cdn.freelance.ru/img/portfolio/pics/00/13/57/1267648.jpg?mt=7cde6a14",
+      "followed": false,
+      "discription": "No, man. I am not bored.",
+      "country": "UK",
+      "city": "London"
+    },
+    {
+      "id": 6,
+      "name": "Poly",
+      "surname": "Lisbi",
+      "age": 14,
+      "education": "Not have -> Finance Managment",
+      "position": "The Little Finance Managment",
+      "status": "Single",
+      "photoURL": "https://i.imgur.com/rVaHVT4.jpeg",
+      "header": "https://st.depositphotos.com/1010463/1468/i/600/depositphotos_14687809-stock-photo-sunny-forest-panorama.jpg",
+      "followed": false,
+      "discription": "I student on a finance managment in Polish!",
+      "country": "Polish",
+      "city": "Wroclow"
+    },
+    {
+      "id": 7,
+      "name": "Linda",
+      "surname": "Sakhvulia",
+      "age": 25,
+      "education": "Not have",
+      "position": "The JAVA Softer",
+      "status": "Single",
+      "photoURL": "http://pm1.narvii.com/7303/19cabf3a1c19c4a2b052eae917a4ffc9241a7bb4r1-437-459v2_uhq.jpg",
+      "header": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtLEJrAjUEv_ugKRPg2_1zltMpKgnTxevx5g&usqp=CAU",
+      "followed": false,
+      "discription": "I woman!",
+      "country": "Russian",
+      "city": "Krasnodar"
+    },
+    {
+      "id": 8,
+      "name": "Sveta",
+      "surname": "Coder",
+      "age": 5,
+      "education": "The Coder",
+      "position": "The High Coder",
+      "status": "Single",
+      "photoURL": "https://steampunker.ru/uploads/images/00/09/44/2010/12/27/72df10.jpg",
+      "header": "http://dgdesign.ru/uploads/posts/2016-04/1459945318_shapka-sayta-gorod-3.jpg",
+      "followed": false,
+      "discription": "I coder!",
+      "country": "Ukraine",
+      "city": "Kiev"
+    },
+    {
+      "id": 9,
+      "name": "Dima",
+      "surname": "Knight",
+      "age": 41,
+      "education": "The Train Driver",
+      "position": "The Delivery Driver",
+      "status": "Single",
+      "photoURL": "https://tiktok-wiki.ru/wp-content/uploads/2020/05/avatarki-dlya-tik-toka1.jpg",
+      "header": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9NcKB2Dkb7lrqwaBawv_mkUl6Cih10sxpEKvT1C_7CrMeOWnjYdGmdM5dHKUgUXetdg&usqp=CAU",
+      "followed": false,
+      "discription": "I cool coder!",
+      "country": "Ukraine",
+      "city": "Kiev"
+    },
+    {
+      "id": 10,
+      "name": "Machel",
+      "surname": "Sword",
+      "age": 22,
+      "education": "The Mother",
+      "position": "The Security",
+      "status": "Single",
+      "photoURL": "https://dota-blog.ru/wp-content/uploads/2020/01/i13682662188.jpg",
+      "header": "https://lh3.googleusercontent.com/proxy/Vrkf5uX71Clv49oCBCwnzocsVktpZNKlXglpepVGFdxBPbxcWNqPf9QBm-yvdQgdHbk7TvgNNG-K97lv5fE30B48221aQ9JCo-QkhAMYFiu6i09zezQx8g",
+      "followed": false,
+      "discription": "I street hool!",
+      "country": "UK",
+      "city": "London"
+    },
+    {
+      "id": 11,
+      "name": "Mayor",
+      "surname": "Litenant",
+      "age": 75,
+      "education": "The Arms Poland",
+      "position": "The Lead Security",
+      "status": "Single",
+      "photoURL": "https://shutniki.club/wp-content/uploads/2020/04/Ava_krasnogo_cveta_1_05184541.jpg",
+      "header": "https://lh3.googleusercontent.com/proxy/aXSb0Ntc3322cQoHddHnRvz45T2bvUlNvJNsy8CwdPDWn44wiGB7SUYJ4R1JY1nXw2PBPvWVoKUOAWc4FgN7RRsOlP-zyT2q-WtHUfLkjRNME6U3UiDISg",
+      "followed": false,
+      "discription": "I learn JS! I junior JS",
+      "country": "Poland",
+      "city": "Lodz"
+    },
+    {
+      "id": 12,
+      "name": "Oleg",
+      "surname": "Earth",
+      "age": 18,
+      "education": "The Agranout",
+      "position": "The Gardener",
+      "status": "Single",
+      "photoURL": "https://thumbs.dreamstime.com/b/%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82-%D0%B0%D0%B2%D0%B0%D1%82%D0%B0%D1%80%D1%8B-%D1%84%D0%B5%D1%80%D0%BC%D0%B5%D1%80%D0%B0-%D0%BD%D0%B0-%D0%B1%D0%B5%D0%B6%D0%B5-%D1%84%D0%BE%D0%BD%D0%B5-%D0%B1%D0%B5%D0%B6%D0%B5%D0%B2%D0%BE%D0%B9-184240181.jpg",
+      "header": "http://dgdesign.ru/uploads/posts/2016-07/1467980083_shapka-sayta-cvety-656231272_dgdesign_ru.jpg",
+      "followed": false,
+      "discription": "I'd like a own farm!",
+      "country": "Ukraine",
+      "city": "Cherson"
+    },
+    {
+      "id": "lenght",
+      "amountUsers": "12"
+    },
+    {
+      "id": "loggedUser",
+      "age": "41",
+      "education": "Software engineer",
+      "header": "https://wallpaperscave.ru/images/thumbs/download/1024x576/18/07-13/games-fallout-4-66507.jpg",
+      "name": "Frank",
+      "position": "The Lead Manager",
+      "status": "Single",
+      "discription": "I don't bored",
+      "surname": "Hill",
+      "photoURL": "https://cs16planet.ru/steam-avatars/images/avatar3219.jpg",
+      "followed": false
+    }
+  ],
+  "dataBaseLogged": {
+    "resultCode": 0,
+    "messages": [],
+    "data": {
+      "id": null,
+      "login": "not logged",
+      "password": null
+    }
+  },
+  "followers": [
+    {
+      "id": 1
+    }
+  ],
+  "registered": [
+    {
+      "login": "FrankLover",
+      "id": "loggedUser",
+      "password": "test1"
+    },
+    {
+      "login": "FingerSweet",
+      "id": 1,
+      "password": "test2"
+    }
+  ]
+}

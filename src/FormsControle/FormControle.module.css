@@ -1,0 +1,11 @@
+.textareaError{
+    border:2px red solid;
+}
+
+.inputError{
+    border:2px red solid;
+}
+
+.spanError{
+    color:red;
+}

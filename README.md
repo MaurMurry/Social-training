@@ -8,7 +8,7 @@ Created as an imitation of a social network, focused on a component approach.
 </p>
 <h3>Target</h3>
 <p>A project for practical skills in learning the principles of the component approach and React / Redux.<br>
-It is not used for indicative purposes, but only for the introduction and development of the project during the learning stages.
+It is not used for indicative purposes, but only for the introduction and development of the project during the learning stages.</br>.
 </p>
 <h3>Technologies</h3>
 <p>- CSS</p>
@@ -46,17 +46,17 @@ npm install
 json-server --watch db.json
 ```
 
-5. After the server is launched on http://localhost: 3000/, launch the project itself.
+5. After the server is launched on http: // localhost: 3000 /, launch the project itself.
 
 ```
 npm start
 ```
 
-6. Ready. The project is available at http://localhost:3001/
+6. Done. The project is available at http: // localhost: 3001 /
 
 <h3>
 Further project</h3>
-• There is no main direction, the development of the project, depends on training.
+• There is no main direction, the development of the project depends on training.
 
 <h3>More about</h3>
 

@@ -1,0 +1,57 @@
+.wrapper {
+  width: 100%;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 100%;
+  margin-left: 20px;
+}
+
+.textUser {
+  font-size: 1.6rem;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+.followedButton {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+
+  border: none;
+  margin-right: 20px;
+}
+
+.follow {
+  box-shadow: greenyellow 4px 4px 3px;
+  background-color: #47c043;
+}
+.follow:hover {
+  box-shadow: rgb(100, 163, 5) 4px 4px 3px;
+  background-color: #0b5208;
+}
+.unfollow {
+  box-shadow: rgb(226, 37, 37) 4px 4px 3px;
+  background-color: #ad0606;
+}
+.unfollow:hover {
+  box-shadow: rgba(185, 11, 40, 0.767) 4px 4px 3px;
+  background-color: #eb5b62;
+}
+
+.getUserButton {
+  margin: 40px 0 120px 40%;
+  width: 150px;
+  height: 50px;
+  border-radius: 10%;
+  border: violet solid 2px;
+  background-color: rgb(167, 4, 167);
+  box-shadow: violet -4px -4px 8px;
+}

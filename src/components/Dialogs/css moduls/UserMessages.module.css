@@ -1,0 +1,85 @@
+.UserMessage {
+  width: 100%;
+  background: rgb(131, 58, 180);
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 54%,
+    rgba(252, 176, 69, 1) 100%
+  );
+  grid-area: open_dialogs;
+  display: flex;
+  flex-direction: column;
+}
+
+.all_message {
+  border: 1px solid black;
+  border-radius: 15%;
+  width: 240px;
+}
+.message {
+  margin: 1rem 1rem 0 0;
+  align-self: flex-end;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
+.message_other {
+  margin: 1rem 0 0 1rem;
+  align-content: flex-start;
+  background: rgb(174, 224, 238);
+  background: radial-gradient(
+    circle,
+    rgba(174, 224, 238, 1) 0%,
+    rgba(85, 222, 124, 1) 100%
+  );
+}
+.all_message div {
+  width: 210px;
+  padding: 10px 10px;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+.send_message {
+  width: 700px;
+  height: 150px;
+  grid-area: send_message;
+}
+.send_message textarea {
+  width: 680px;
+  height: 120px;
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 54%,
+    rgba(252, 176, 69, 1) 100%
+  );
+  resize: none;
+  font-size: 1.4rem;
+  color: rgb(246, 149, 14);
+  margin-top: 2px;
+  padding: 8px;
+}
+
+.send_message button {
+  width: 120px;
+  height: 40px;
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 54%,
+    rgba(252, 176, 69, 1) 100%
+  );
+  border: none;
+  color: rgb(155, 1, 1);
+  font-size: 1rem;
+  font-weight: bold;
+} 
+button:hover {
+  background-color: rgb(155, 1, 1);
+  cursor: pointer;
+}
